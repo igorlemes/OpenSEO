@@ -1,3 +1,7 @@
+---
+description: Generate comprehensive, prioritized content roadmap using multiple SEO research angles
+---
+
 # Priorities Command
 
 Generate a comprehensive, prioritized content roadmap using multiple SEO research angles.

@@ -1,3 +1,7 @@
+---
+description: Audit existing landing pages for conversion optimization opportunities
+---
+
 # Landing Page Audit Command
 
 Use this command to audit existing landing pages for conversion optimization opportunities.

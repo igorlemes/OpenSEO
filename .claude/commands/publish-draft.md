@@ -1,3 +1,7 @@
+---
+description: Publish draft article to WordPress with SEO metadata auto-populated
+---
+
 # Publish Draft to WordPress
 
 Publishes a draft article from this project to WordPress as a Draft, with all SEO metadata auto-populated.

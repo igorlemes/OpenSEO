@@ -1,0 +1,93 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "command": {
+    "research": {
+      "description": "Conduct comprehensive SEO keyword research and competitive analysis",
+      "agent": "general"
+    },
+    "write": {
+      "description": "Create comprehensive, SEO-optimized long-form blog content",
+      "agent": "general"
+    },
+    "rewrite": {
+      "description": "Update and improve existing blog posts based on analysis findings",
+      "agent": "general"
+    },
+    "optimize": {
+      "description": "Perform final SEO optimization pass on completed articles",
+      "agent": "general"
+    },
+    "analyze-existing": {
+      "description": "Review and analyze existing blog posts for SEO opportunities",
+      "agent": "general"
+    },
+    "article": {
+      "description": "Unified content creation pipeline producing SEO-optimized articles",
+      "agent": "general"
+    },
+    "cluster": {
+      "description": "Build complete topic cluster strategy with pillar page and supporting articles",
+      "agent": "general"
+    },
+    "priorities": {
+      "description": "Generate comprehensive, prioritized content roadmap",
+      "agent": "general"
+    },
+    "performance-review": {
+      "description": "Analyze content performance data and generate prioritized queue",
+      "agent": "general"
+    },
+    "scrub": {
+      "description": "Remove AI-generated watermarks from markdown content",
+      "agent": "general"
+    },
+    "publish-draft": {
+      "description": "Publish draft article to WordPress with SEO metadata",
+      "agent": "general"
+    },
+    "research-serp": {
+      "description": "Deep SERP analysis for a specific keyword",
+      "agent": "general"
+    },
+    "research-gaps": {
+      "description": "Identify content gaps where competitors rank but you don't",
+      "agent": "general"
+    },
+    "research-trending": {
+      "description": "Identify topics gaining search interest for time-sensitive content",
+      "agent": "general"
+    },
+    "research-performance": {
+      "description": "Categorize all content by traffic and rankings",
+      "agent": "general"
+    },
+    "research-topics": {
+      "description": "Analyze topical authority by clustering keywords",
+      "agent": "general"
+    },
+    "content-calendar": {
+      "description": "Generate dated content calendar mapped to topic clusters",
+      "agent": "general"
+    },
+    "landing-write": {
+      "description": "Create high-converting landing pages for SEO or PPC",
+      "agent": "general"
+    },
+    "landing-audit": {
+      "description": "Audit landing pages for conversion optimization",
+      "agent": "general"
+    },
+    "landing-research": {
+      "description": "Research landing page opportunity analyzing competitors",
+      "agent": "general"
+    },
+    "landing-competitor": {
+      "description": "Analyze competitor landing page in depth",
+      "agent": "general"
+    },
+    "landing-publish": {
+      "description": "Publish landing pages to WordPress",
+      "agent": "general"
+    }
+  }
+}

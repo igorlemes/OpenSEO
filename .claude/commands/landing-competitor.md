@@ -1,3 +1,7 @@
+---
+description: Analyze specific competitor landing page in depth
+---
+
 # Landing Page Competitor Analysis Command
 
 Use this command to analyze a specific competitor's landing page in depth.

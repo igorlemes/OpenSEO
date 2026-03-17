@@ -1,3 +1,7 @@
+---
+description: Update and improve existing blog posts based on analysis findings
+---
+
 # Rewrite Command
 
 Use this command to update and improve existing blog posts based on analysis findings.

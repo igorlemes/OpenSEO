@@ -1,3 +1,7 @@
+---
+description: Analyze content performance data and generate prioritized queue of content tasks
+---
+
 # Performance Review Command
 
 Use this command to analyze content performance data and generate a prioritized queue of content tasks.

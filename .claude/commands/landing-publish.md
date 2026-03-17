@@ -1,3 +1,7 @@
+---
+description: Publish landing pages to WordPress as pages with SEO options
+---
+
 # Landing Page Publish Command
 
 Use this command to publish landing pages to WordPress as pages (not blog posts).

@@ -1,3 +1,7 @@
+---
+description: Categorize all content by traffic and rankings to prioritize optimization
+---
+
 # Research Performance Command
 
 Categorize all content by traffic and rankings to prioritize optimization.
