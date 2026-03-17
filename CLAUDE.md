@@ -1,22 +1,24 @@
-# CLAUDE.md
+# AGENTS.md
 
-This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
+This file provides guidance to OpenCode (opencode.ai) when working with code in this repository.
 
 ## Project Overview
 
-SEO Machine is an open-source Claude Code workspace for creating SEO-optimized blog content. It combines custom commands, specialized agents, and Python-based analytics to research, write, optimize, and publish articles for any business.
+OpenSEO (formerly SEO Machine) is an OpenCode workspace for creating SEO-optimized blog content. It combines custom commands, specialized agents, and Python-based analytics to research, write, optimize, and publish articles for any business.
 
 ## Setup
 
 ```bash
 pip install -r data_sources/requirements.txt
+opencode .
+/init
 ```
 
 API credentials are configured in `data_sources/config/.env` (GA4, GSC, DataForSEO, WordPress). GA4 service account credentials go in `credentials/ga4-credentials.json`.
 
 ## Commands
 
-All commands are defined in `.claude/commands/` and invoked as slash commands:
+All commands are defined in `.claude/commands/` with OpenCode-compatible frontmatter and invoked as slash commands:
 
 - `/research [topic]` - Keyword/competitor research, generates brief in `research/`
 - `/write [topic]` - Create full article in `drafts/`, auto-triggers optimization agents

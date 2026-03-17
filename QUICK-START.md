@@ -1,6 +1,6 @@
 # Quick Start Guide
 
-Get SEO Machine running in **10 minutes** ⚡
+Get OpenSEO running in **10 minutes** ⚡
 
 ## Step 1: Install Dependencies (2 min)
 
@@ -37,8 +37,11 @@ Fill out these **3 essential files** with your company info:
 ## Step 3: Create Your First Article (3 min)
 
 ```bash
-# Open in Claude Code
-claude-code .
+# Open in OpenCode
+opencode .
+
+# Initialize the project
+/init
 
 # Research a topic
 /research [your topic]
