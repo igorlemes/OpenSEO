@@ -1,4 +1,4 @@
-# OpenSEO (formerly SEO Machine)
+# OpenSEO (derived from SEO Machine)
 
 A specialized OpenCode workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
 
