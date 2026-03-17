@@ -1,10 +1,10 @@
-# SEO Machine
+# OpenSEO (formerly SEO Machine)
 
-A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
+A specialized OpenCode workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience.
 
 ## Overview
 
-SEO Machine is built on Claude Code and provides:
+OpenSEO is built on [OpenCode](https://opencode.ai) and provides:
 - **Custom Commands**: `/research`, `/write`, `/rewrite`, `/analyze-existing`, `/optimize`, `/performance-review`, `/publish-draft`, `/article`, `/priorities`, plus specialized research and landing page commands
 - **Specialized Agents**: Content analyzer, SEO optimization, meta element creation, internal linking, keyword mapping, editor, performance analysis, headline generator, CRO analyst, landing page optimizer
 - **Marketing Skills**: 26 marketing skills for copywriting, CRO, A/B testing, email sequences, pricing strategy, and more
@@ -16,15 +16,15 @@ SEO Machine is built on Claude Code and provides:
 ## Getting Started
 
 ### Prerequisites
-- [Claude Code](https://claude.com/claude-code) installed
-- Anthropic API account
+- [OpenCode](https://opencode.ai) installed
+- API key for your preferred LLM provider (OpenAI, Anthropic, Google, etc.)
 
 ### Installation
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/[your-username]/seomachine.git
-cd seomachine
+git clone https://github.com/igorlemes/OpenSEO.git
+cd OpenSEO
 ```
 
 2. Install Python dependencies for analysis modules:
@@ -39,9 +39,14 @@ This installs:
 - Machine learning (scikit-learn)
 - Web scraping tools (beautifulsoup4)
 
-3. Open in Claude Code:
+3. Open in OpenCode:
 ```bash
-claude-code .
+opencode .
+```
+
+4. Initialize the project:
+```bash
+/init
 ```
 
 4. **Customize Context Files** (Important!):
@@ -989,7 +994,7 @@ Every article must meet these requirements:
 ### Getting Help
 - Review this README thoroughly
 - Check context files are properly configured
-- Consult [Claude Code documentation](https://docs.claude.com/claude-code)
+- Consult [OpenCode documentation](https://opencode.ai/docs)
 
 ### Contributing
 - Report issues via GitHub Issues
@@ -1002,13 +1007,13 @@ Every article must meet these requirements:
 
 ## Credits
 
-Built with [Claude Code](https://claude.com/claude-code) by Anthropic.
+Built with [OpenCode](https://opencode.ai) - the open source AI coding agent.
 
-Originally developed for Castos, now available as an open-source tool for any business to streamline long-form SEO content creation.
+Originally developed as SEO Machine for Claude Code, ported to OpenCode for broader compatibility with any LLM provider.
 
 ## Examples & Community
 
-**See It In Action**: Check out `examples/castos/` for a complete real-world example of how a podcast hosting SaaS company uses SEO Machine.
+**See It In Action**: Check out `examples/castos/` for a complete real-world example of how a podcast hosting SaaS company uses OpenSEO.
 
 **Contributions Welcome**: Found a bug? Have a feature request? Want to share your own industry example? Contributions and PRs are welcome!
 
