@@ -1,3 +1,7 @@
+---
+description: Identify content gaps where competitors rank but you don't
+---
+
 # Research Gaps Command
 
 Identify content gaps where competitors rank but you don't.

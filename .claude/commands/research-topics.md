@@ -1,3 +1,7 @@
+---
+description: Analyze topical authority by clustering keywords into related topics
+---
+
 # Research Topics Command
 
 Analyze topical authority by clustering keywords into related topics.

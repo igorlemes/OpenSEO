@@ -1,3 +1,7 @@
+---
+description: Remove invisible AI-generated watermarks and telltale patterns from markdown content
+---
+
 # Scrub Command
 
 Use this command to remove invisible AI-generated watermarks and telltale patterns from markdown content files.

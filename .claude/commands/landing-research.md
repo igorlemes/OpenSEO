@@ -1,3 +1,7 @@
+---
+description: Research landing page opportunity analyzing competitors and keywords
+---
+
 # Landing Page Research Command
 
 Use this command to research a landing page opportunity before creating it. Analyzes competitors, keywords, and provides strategic recommendations.

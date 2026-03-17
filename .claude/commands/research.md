@@ -1,3 +1,7 @@
+---
+description: Conduct comprehensive SEO keyword research and competitive analysis before writing new content
+---
+
 # Research Command
 
 Use this command to conduct comprehensive SEO keyword research and competitive analysis before writing new content.

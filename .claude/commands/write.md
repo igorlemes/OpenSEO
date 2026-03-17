@@ -1,3 +1,7 @@
+---
+description: Create comprehensive, SEO-optimized long-form blog content
+---
+
 # Write Command
 
 Use this command to create comprehensive, SEO-optimized long-form blog content.

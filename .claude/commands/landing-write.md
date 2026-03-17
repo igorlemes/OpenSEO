@@ -1,3 +1,7 @@
+---
+description: Create high-converting landing pages optimized for SEO or PPC traffic
+---
+
 # Landing Page Write Command
 
 Use this command to create high-converting landing pages optimized for either organic SEO traffic or paid PPC traffic.

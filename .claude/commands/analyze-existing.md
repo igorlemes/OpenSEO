@@ -1,3 +1,7 @@
+---
+description: Review and analyze existing blog posts for SEO opportunities, content gaps, and improvement areas
+---
+
 # Analyze Existing Command
 
 Use this command to review and analyze existing your company blog posts for SEO opportunities, content gaps, and improvement areas.

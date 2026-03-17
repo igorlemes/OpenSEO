@@ -1,3 +1,7 @@
+---
+description: Identify topics gaining search interest for time-sensitive content opportunities
+---
+
 # Research Trending Command
 
 Identify topics gaining search interest NOW for time-sensitive content opportunities.

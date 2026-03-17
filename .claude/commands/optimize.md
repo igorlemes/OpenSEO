@@ -1,3 +1,7 @@
+---
+description: Perform a final SEO optimization pass on completed articles before publishing
+---
+
 # Optimize Command
 
 Use this command to perform a final SEO optimization pass on completed articles before publishing.

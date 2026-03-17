@@ -1,3 +1,7 @@
+---
+description: Deep SERP analysis for a specific keyword to understand what Google wants
+---
+
 # Research SERP Command
 
 Deep SERP analysis for a specific keyword to understand what Google wants.
